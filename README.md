@@ -67,7 +67,7 @@ For this research paper we have used the EEMD method for extracting different fe
 - Decomposing the noisy signal into IMFs using EMD.
 - Averaging the IMFs obtained from multiple realizations to get more stable and reliable results.
 
-# Bi-LSTM + GCN:
+# BI-LSTM + GCN:
   
 ### Detailed Model Explanation with Layer Contributions and Results Analysis
 
