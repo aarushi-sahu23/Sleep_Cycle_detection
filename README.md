@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Research Topic:
 
@@ -116,6 +117,3 @@ The capability to load and evaluate model weights from specific epochs provided 
 ### Conclusion
 
 The combination of BiLSTM and GCN layers effectively captured both temporal and spatial dependencies in EEG data. The BiLSTM layers handled intricate time-based patterns, while the GCN layer focused on feature relationships, enhancing the model's ability to differentiate between sleep stages. The detailed analysis of training and evaluation metrics, along with specific epoch performance, demonstrated the robustness and effectiveness of this hybrid architecture in sleep stage classification.
-
-
-
