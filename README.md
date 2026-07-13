@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Research Topic:
 
